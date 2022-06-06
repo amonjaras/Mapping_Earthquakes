@@ -52,13 +52,13 @@ As part of the Challenge, we had 3 Deliverables
 
 - Deliverable 2: Add Major Earthquake Data
 
->*Fig 2: Major Earthquake data
+>*Fig 2: Major Earthquake data*
 
 ![Deliverable2](https://github.com/amonjaras/Mapping_Earthquakes/blob/main/Images/Deliverable2.png)
 
 - Deliverable 3: Add an Additional Map
 
->*Fig 3: Additional Map (Dark)
+>*Fig 3: Additional Map (Dark)*
 
 ![Deliverable3](https://github.com/amonjaras/Mapping_Earthquakes/blob/main/Images/Deliverable3.png)
 
